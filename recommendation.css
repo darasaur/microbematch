@@ -1,0 +1,27 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  font-family: 'Inter', sans-serif;
+  display: flex; 
+  justify-content: center;
+  align-items: center; 
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  text-align: bacteria combinations that can breakdown PET; 
+}
+
+h3 {
+  color: #6d9eebff; 
+  text-align: left; 
+}
+
+a {
+  color: #6d9eebff; 
+}
