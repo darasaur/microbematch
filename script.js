@@ -1,5 +1,9 @@
 //PET option pages 
 
+function PET() {
+  window.location.href = "pet.html"
+}
+
 function PETOne() {
   window.location.href = "petone.html";
 }
@@ -25,6 +29,9 @@ function PETSix() {
 }
 
 // PE option pages 
+function PE() {
+  window.location.href = "pe.html"
+}
 
 function PEOne() {
   window.location.href = "peone.html";
@@ -43,6 +50,10 @@ function PEFour() {
 }
 
 // PP option pages
+
+function PP() {
+  window.location.href = "pp.html"
+}
 
 function PPOne() {
   window.location.href = "ppone.html";
@@ -65,6 +76,11 @@ function PPFive() {
 }
 
 // PLA option pages 
+
+function PLA() {
+  window.location.href = "pla.html"
+}
+
 function PLAOne() {
   window.location.href = "plaone.html";
 }
